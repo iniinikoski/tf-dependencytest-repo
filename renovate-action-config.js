@@ -1,7 +1,7 @@
 module.exports = {
   branchPrefix: 'test-renovate-action/',
   dryRun: true,
-  logLevel: 'debug',
+  logLevel: 'trace',
   onboarding: false,
   platform: 'github',
   includeForks: false,
