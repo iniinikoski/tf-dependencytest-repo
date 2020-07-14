@@ -1,7 +1,5 @@
-const core = require('@actions/core');
-
 const terraformAccessToken = process.env.TF_ACCESS_TOKEN;
-const debugMe = process.env['DEBUG_ME']
+const debugMe = process.env.DEBUG_ME;
 
 console.log("The value of debug value is: " + debugMe)
 
