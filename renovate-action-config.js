@@ -11,7 +11,7 @@ module.exports = {
   "hostRules": [{
     "hostName": "app.terraform.io",
     "encrypted": {
-      "token": "kApe5W9Sb6xnCBTanePzWKJUteerMmSHtnK/p82/OyRA5k2N8ruFcOW/4D4dss3pBUCO4Zxwlm4ymLghbIquj/UL+2r2ijAIR5SO+kc9c+Es3B9IqBTyJ0xKi4LOluQvzO8MxKN43LzuzILNnvxnuE+x2fQGaZIUkYuUOj+5rvxw0G8bEI+EiHSPaUFFnUrUuQ1mIjFmR2eM+6+tPQemnLxKaIhA2/j/xMAE2S9UECiH+PJxiYsxFreKTPLXd7/RJ9PMXYnVFb0vAWMPisBetDPXc/7JIADR0Z48iMqhCiLli0nQF4BlOkCeuVBjkf6WaPBod799aAKoMRao7zb/YQ=="
+      "token": "jDplnkaJhNRGnqLd9opzhmBLSJl7XR3ogIT4TsCyEuYhWJKLqrWASdCaOBvZkJEe6R6MXJTPFOuZv9HTbHz2QnU4a0VBHFZG70r3MNnFY0h5iCslQujfC866RFNouoOKAQujR/i8FtFIsgZKTLQAcxnOH7ce6EAF4fCXAsrwxiWI5VfuZ7k5uW03sCM/+LSLAYof4CduPz5gy6RWd/oR9pqZAGusxuk/k4yd+hHdE2rCxQL/ZotcjhpGeFUqf//cyt8b1DgODoLhusGTHrAsT0B0DdhsU5xJLFY85JokFZX8Fl36ReXpbbSlA3YWrGSiGIzCRwoyNMW5YKHuGDP2vg=="
     }
   }]
 };
