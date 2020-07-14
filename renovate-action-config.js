@@ -1,3 +1,6 @@
+const core = require('@actions/core');
+const github = require('@actions/github');
+
 const terraformAccessToken = process.env.TF_ACCESS_TOKEN;
 const debugMe = process.env['DEBUG_ME']
 
