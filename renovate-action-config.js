@@ -12,7 +12,7 @@ module.exports = {
   logLevel: 'debug',
   onboarding: false,
   platform: 'github',
-  enabledManagers: ["terraform"]
+  enabledManagers: ['terraform'],
   includeForks: false,
   repositories: [
     'iniinikoski/tf-dependencytest-repo',
