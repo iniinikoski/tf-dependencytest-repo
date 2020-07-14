@@ -16,4 +16,4 @@ jobs:
           configurationFile: renovate-action-config.js
           token: ${{ secrets.GH_ACCESS_TOKEN }}
         env:
-          RENOVATE_HOST_RULES: '[{"hostName":"app.terraform.io","token":"${{ secrets.TF_ACCESS_TOKEN }}"}]'
+          TF_ACCESS_TOKEN: ${{ secrets.TF_ACCESS_TOKEN }}
