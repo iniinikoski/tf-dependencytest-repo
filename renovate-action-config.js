@@ -1,6 +1,6 @@
 const terraformAccessToken = process.env.TF_ACCESS_TOKEN;
 
-if(! terraformAccessToken){
+if(!terraformAccessToken){
   console.log("The TF_ACCESS_TOKEN environment variable must be set")
   process.exit(1);
 }
